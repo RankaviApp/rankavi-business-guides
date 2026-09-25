@@ -8,6 +8,11 @@
     "dark": "#4338ca"
   },
   "favicon": "/favicon.png",
+  "logo": {
+    "light": "/logo.svg",
+    "dark": "/logo.svg",
+    "href": "https://rankavi.com"
+  },
   "navigation": {
     "groups": [
       {
