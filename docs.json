@@ -1,0 +1,122 @@
+{
+  "$schema": "https://mintlify.com/docs.json",
+  "theme": "mint",
+  "name": "Rankavi Business Guides",
+  "colors": {
+    "primary": "#6366f1",
+    "light": "#a5b4fc",
+    "dark": "#4338ca"
+  },
+  "favicon": "/favicon.png",
+  "navigation": {
+    "groups": [
+      {
+        "group": "Start Here",
+        "pages": ["index"]
+      },
+      {
+        "group": "How to Start a Business",
+        "pages": [
+      "how-to-start-a-3d-printing-business",
+      "how-to-start-a-airbnb-business",
+      "how-to-start-a-amazon-business",
+      "how-to-start-a-atm-business",
+      "how-to-start-a-baking-business",
+      "how-to-start-a-beauty-business",
+      "how-to-start-a-bookkeeping-business",
+      "how-to-start-a-box-truck-business",
+      "how-to-start-a-candle-business",
+      "how-to-start-a-car-detailing-business",
+      "how-to-start-a-car-rental-business",
+      "how-to-start-a-car-wash-business",
+      "how-to-start-a-catering-business",
+      "how-to-start-a-cleaning-business",
+      "how-to-start-a-clothing-business",
+      "how-to-start-a-commercial-cleaning-business",
+      "how-to-start-a-construction-business",
+      "how-to-start-a-consulting-business",
+      "how-to-start-a-contracting-business",
+      "how-to-start-a-courier-business",
+      "how-to-start-a-craft-business",
+      "how-to-start-a-crochet-business",
+      "how-to-start-a-crypto-business",
+      "how-to-start-a-daycare-business",
+      "how-to-start-a-delivery-business",
+      "how-to-start-a-dog-walking-business",
+      "how-to-start-a-dropshipping-business",
+      "how-to-start-a-ecommerce-business",
+      "how-to-start-a-electrical-business",
+      "how-to-start-a-etsy-business",
+      "how-to-start-a-event-planning-business",
+      "how-to-start-a-food-business",
+      "how-to-start-a-food-truck-business",
+      "how-to-start-a-franchise-business",
+      "how-to-start-a-freelance-business",
+      "how-to-start-a-hair-business",
+      "how-to-start-a-handmade-bouquet-business",
+      "how-to-start-a-handyman-business",
+      "how-to-start-a-heating-and-air-conditioning-business",
+      "how-to-start-a-hotshot-business",
+      "how-to-start-a-house-cleaning-business",
+      "how-to-start-a-hvac-business",
+      "how-to-start-a-jewelry-business",
+      "how-to-start-a-junk-removal-business",
+      "how-to-start-a-landscaping-business",
+      "how-to-start-a-lash-business",
+      "how-to-start-a-laundromat-business",
+      "how-to-start-a-lawn-care-business",
+      "how-to-start-a-lawn-mowing-business",
+      "how-to-start-a-marketing-business",
+      "how-to-start-a-meal-prep-business",
+      "how-to-start-a-medical-courier-business",
+      "how-to-start-a-medical-transportation-business",
+      "how-to-start-a-painting-business",
+      "how-to-start-a-pest-control-business",
+      "how-to-start-a-photo-booth-business",
+      "how-to-start-a-photography-business",
+      "how-to-start-a-playdough-business",
+      "how-to-start-a-plumbing-business",
+      "how-to-start-a-pool-cleaning-business",
+      "how-to-start-a-pressure-washing-business",
+      "how-to-start-a-print-on-demand-business",
+      "how-to-start-a-real-estate-business",
+      "how-to-start-a-rental-car-business",
+      "how-to-start-a-rental-property-business",
+      "how-to-start-a-reselling-business",
+      "how-to-start-a-ribbon-printing-business",
+      "how-to-start-a-self-storage-business",
+      "how-to-start-a-seo-business",
+      "how-to-start-a-sticker-business",
+      "how-to-start-a-storage-unit-business",
+      "how-to-start-a-tax-preparation-business",
+      "how-to-start-a-tow-truck-business",
+      "how-to-start-a-transportation-business",
+      "how-to-start-a-travel-business",
+      "how-to-start-a-trucking-business",
+      "how-to-start-a-tshirt-business",
+      "how-to-start-a-tutoring-business",
+      "how-to-start-a-vending-machine-business",
+      "how-to-start-a-web-design-business"
+        ]
+      }
+    ]
+  },
+  "navbar": {
+    "links": [
+      {
+        "label": "Rankavi",
+        "href": "https://rankavi.com"
+      }
+    ],
+    "primary": {
+      "type": "button",
+      "label": "See Pricing",
+      "href": "https://rankavi.com/#pricing"
+    }
+  },
+  "seo": {
+    "metatags": {
+      "og:site_name": "Rankavi Business Guides"
+    }
+  }
+}
